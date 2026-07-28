@@ -41,6 +41,7 @@ void printarray(int arr[], int n)
     }
     printf("\n");
 }
+
 int main()
 {
     int arr[]={7, 6, 3, 4, 1};
