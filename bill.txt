@@ -1,0 +1,5 @@
+===== SHIVANSH SNACK CENTER =====
+Coffee Qty:1 Amount:40.00
+Sandwich Qty:2 Amount:120.00
+
+Total Bill = Rs.160.00
